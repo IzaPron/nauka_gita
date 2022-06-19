@@ -6,6 +6,6 @@
 
 - list 3
 - list 2
-- list 1  
+- list 2
 
 ![This is an image](https://myoctocat.com/assets/images/octocats/octocat-26.png)
